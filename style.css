@@ -1,0 +1,26 @@
+.banner {
+    background: url("https://il3.picdn.net/shutterstock/videos/5483036/thumb/1.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: maroon;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.kontak{
+   background-color: #fff;
+}
